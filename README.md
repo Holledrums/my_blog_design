@@ -1,10 +1,10 @@
 # Design a Blog Layout
 
-**[Test this app yourself](github.link)**
+**[Test this app yourself](https://holledrums.github.io/my_blog_design/)**
 
 ---
 
-![Conzept scrabble](planning/concept.png)
+![myBlog_screenshot](layout_images/myBlog.png)
 
 #### Navigation
 
